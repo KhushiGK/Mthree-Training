@@ -14,7 +14,7 @@ Team Contribution:
 - Dockerfile - Hema
 - Kubernetes - Khushi, Himaansh
 - Jenkins - Sandeep, Vishnu
-- Prometheus & Grafana - Sindhuja
+- Prometheus & Grafana - Sindhuja, Sandeep
 
 ## 📈 ER Diagram
 
@@ -218,6 +218,9 @@ This section previously included terminal commands for deploying the application
 - **Grafana**: Dashboard visualization of metrics.
 
 ---
+
+![WhatsApp Image 2025-04-07 at 12 24 46_4eb113be](https://github.com/user-attachments/assets/25814cf5-0eb0-48be-999e-fef73cf8eeb8)
+
 
 ## ✅ Conclusion
 This comprehensive Banking System enables secure, scalable financial operations and includes monitoring capabilities for high reliability. The architecture supports modern DevOps and SRE practices, ensuring production-readiness and observability.
