@@ -102,7 +102,7 @@ The architecture of the Banking System is designed to be modular and scalable, c
 - Task queue powered by **Redis**
 
 ### **4. Database Layer**
-- **PostgreSQL** stores structured banking data
+- **SQLite** stores structured banking data
 - Tables include customer, account, transaction, logs, etc.
 
 ### **5. Monitoring & Observability**
